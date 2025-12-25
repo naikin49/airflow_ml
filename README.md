@@ -56,7 +56,7 @@ SMTP_MAIL_FROM=airflow@domain.com
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone [airflow_ml.git](https://github.com/naikin49/airflow_ml.git)
+git clone https://github.com/naikin49/airflow_ml.git
 cd airflow-ml
 ```
 
